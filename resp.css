@@ -1,0 +1,217 @@
+@media only screen and (max-width: 1142px)  {
+    body{
+        width: auto;
+    }
+    
+      .portimg{
+          width:auto;
+
+          /* margin-right: 40px; */
+      }
+    .footerhead h4{
+        font-size: 13px;
+    }
+    .buttonhover{
+        font-size: 12px;
+    }
+    h1{
+        font-size: 24px;
+    }
+    h2{
+        font-size: 15px;
+        font-weight: bold;
+    }
+    h4{
+        font-size: 14px;
+    }
+
+.introduction{
+    display: flex;
+    flex-direction: column;
+    height: 845px;
+    width: 100%;
+}
+.intro{
+    border-bottom: 1px solid red;
+    height: auto;
+    width: auto;
+}
+.container{
+    height: 400px;
+    width: 100%;
+/* border: 1px solid red; */
+}
+
+
+.nav{
+    display: flex;  
+    justify-content: center;
+    justify-content: space-around;
+     background-color: black;
+    width:auto;
+    padding: 40px;
+    /* position: fixed; */
+    /* margin-top:-2px; */
+  }
+  .slidee{
+    display: flex;
+    justify-content: center;
+    /* border:5px solid green; */
+    height:auto;
+    width:auto;
+    /*margin:0;*/
+    /*padding: 0;*/
+    background-color: grey;
+    /*z-index: -1;*/
+    /*position: absolute;*/
+  }
+.a12{
+    width: 80%;
+
+}
+  
+  .contactme{
+    height: auto;
+    width: auto;
+    display: flex;
+    /* flex-direction: column; */
+    flex-direction: column;
+  
+  }
+  .write1 input[type=text], textarea {
+    width: auto;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    /* resize: vertical; */
+  }
+  .write1{
+      width: auto;
+      margin-right: 10px;
+  }
+  .write2{
+    width: auto;
+    height: auto;
+
+  }
+  .write2 img{
+    height: 263px;
+    width: 333px;
+    margin-left: 6px;
+    margin-bottom: 5px;
+    box-shadow: 10px 10px 100px 1px grey;
+      /* display:flex; */
+      
+  }
+  .line{
+      width: 150px;
+  }
+  .carousel-inner{
+    width: 100px
+  }
+  .right{
+      width: auto;
+  }
+
+
+   
+    .aboutheading {
+        border-bottom: 5px solid black;
+        
+       
+        margin: 0;
+    height: auto;
+    width: auto;
+    /* justify-content: center; */
+    text-transform: uppercase;
+  }
+
+.servicess{
+    width: auto;
+    height: auto;
+}
+.imgg{
+    width: 100%;
+    margin-top: 4px;
+}
+
+.wrapper{
+display: flex;
+flex-direction: column;
+}
+.single-service{
+    width: auto;
+}
+.number1{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .carousel{
+      width: auto;
+  }
+  
+  .item img{
+      width: 300px;
+      height: 300px;
+  }
+#myCarousel{
+    width: auto;
+}
+#b1{
+    width: auto;
+}
+
+  .loc{
+      margin-left: 20px;
+  }
+  #z2{
+      margin: 0%;
+  
+    }
+.cont{
+    flex-direction: column;
+    height: auto;
+    width: auto;
+    font-size: 15px;
+    
+}
+#z3{
+    height: 298px;
+    width: 100%;
+}
+.slide{
+    width: auto;
+}
+.left{
+    width:auto;
+}
+.right{
+    width: auto;
+}
+.carousel-inner{
+width: 100%;
+}
+
+.nav li a{
+    font-size: 18px;
+}
+
+}
+
+@media (max-width:1000px){
+    .wrapper {
+width: 100%;
+}
+.single-service {
+width: 95%;
+margin-bottom: 30px;
+}
+.wrapper h2 {
+font-size: 30px;
+}
+}
+ 
